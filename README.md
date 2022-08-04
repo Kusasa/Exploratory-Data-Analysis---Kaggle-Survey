@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis---Kaggle-Survey
+# Exploratory Data Analysis - Kaggle Survey
 *Notebook-based EDA of the 2020 Kaggle Survey*
 
 My Article - [A Deep Dive into African Data Science on Kaggle](https://medium.com/afro-ai/a-deep-dive-into-african-data-science-on-kaggle-8b0c685c43ea "Click to view my Medium Article")
